@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66bbb6644e7fe8964e15cde4?variant=light&roadmaps=system-design)](https://roadmap.sh/u/kovaa)
-[![LeetCode Stats](https://leetcode.card.workers.dev/kovaa?theme=nord&font=baloo&extension=null)](https://leetcode.com/u/kovaa/)
-
 <!--
 **kovaa-me/kovaa-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
